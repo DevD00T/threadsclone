@@ -13,8 +13,8 @@ import Topbar from "@/components/shared/Topbar";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Threads Clone",
-  description: "A Next.Js 13 Based Meta Threads Clone",
+  title: "Threads Clone- Threats",
+  description: "A Next.Js 13 Based Meta Threads Clone Called Threats",
 };
 
 export default function RootLayout({
